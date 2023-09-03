@@ -9,3 +9,5 @@
   ### The onehotencoding is applied for the categorical data so that the model can predict data efficiently. For example, for the furnishing status feature the onehotencoding is applied to make the strings or categorical data into machine understandable integers.
 ## Label Encoding:
  ### Label encoding is similar to onehotencoding but instead it gives out the numbers interms of ranks.
+## Feature Scaling:
+  ### It is applied to the training set to normalize the values of the dataset into a particular range(-1 to 1)
