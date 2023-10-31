@@ -1,4 +1,4 @@
-# House-Price-Prediction
+## House-Price-Prediction
 ## Dataset:
   ### The dataset contains the different aspects or features of the houses that are required for the prediction of the price of the house. The independent features that are enlisted were area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheater,airconditioning,parking,prefarea and furnishing status. The dependent variable is price which will be predicted using the independent features.
   
